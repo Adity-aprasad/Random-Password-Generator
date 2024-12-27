@@ -1,4 +1,5 @@
 Random Password Generator 🔐
+
 This project is a Random Password Generator built using React Native and Formik for form handling. It allows users to create strong and customizable passwords by selecting character preferences such as uppercase letters, lowercase letters, numbers, and special characters.
 
 Features ✨
